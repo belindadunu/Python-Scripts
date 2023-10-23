@@ -1,5 +1,7 @@
 # Script to export IAM policies to a CSV file
 
+# From terminal, run: sudo apt install python3-pip, pip install boto3
+
 import boto3
 import csv
 
